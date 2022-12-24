@@ -1,0 +1,1 @@
+<h1 class="font-logo text-white bg-[#082032] text-4xl p-6">Carevel</h1>
